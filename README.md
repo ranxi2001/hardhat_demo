@@ -2,6 +2,8 @@
 
 这个项目展示了一个基本的 Hardhat 使用案例。它包含两个简单的计数器智能合约、对应的测试文件，以及一个用于部署合约的 Hardhat Ignition 模块。
 
+本项目对应的**教程**可见：[从零开始创建一个Hardhat项目](https://github.com/ranxi2001/OnePolloWeb3/blob/master/smart%20contract/Hardhat%E5%AE%9E%E6%88%98%E7%AF%87%E2%80%94%E2%80%94%E4%BB%8E%E9%9B%B6%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E9%A1%B9%E7%9B%AE.md)
+
 ## 项目结构
 
 - `contracts/`: 包含智能合约文件

@@ -2,6 +2,8 @@
 
 This project demonstrates a basic Hardhat use case. It includes two simple counter smart contracts (static and dynamic versions), corresponding test files, and a Hardhat Ignition module for contract deployment.
 
+The corresponding **tutorial** for this project can be found at: [Creating a Hardhat project from scratch](https://github.com/ranxi2001/OnePolloWeb3/blob/master/smart%20contract/Hardhat%E5%AE%9E%E6%88%98%E7%AF%87%E2%80%94%E2%80%94%E4%BB%8E%E9%9B%B6%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E9%A1%B9%E7%9B%AE.md)
+
 ## Project Structure
 
 - `contracts/`: Contains smart contract files
