@@ -5,11 +5,11 @@
 ## 项目结构
 
 - `contracts/`: 包含智能合约文件
-  - `counter.sol`: 基本计数器合约
-  - `counter1.sol`: 带参数构造函数的计数器合约
+  - `counter_static.sol`: 基本计数器合约
+  - `counter_dynamic.sol`: 带参数构造函数的计数器合约
 - `test/`: 包含测试文件
-  - `Counter.js`: 测试 counter.sol
-  - `Counter1.js`: 测试 counter1.sol
+  - `Counter_static.js`: 测试 counter_static.sol
+  - `Counte_dynamic.js`: 测试 counter_dynamic.sol
 - `ignition/modules/`: 包含 Hardhat Ignition 部署模块
 
 ## 快速开始
@@ -47,5 +47,4 @@
 ## 许可证
 
 此项目采用 ISC 许可证.
-
 

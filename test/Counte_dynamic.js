@@ -7,7 +7,7 @@ describe("Counter1", function () {  // 更改描述以区分不同的测试
   async function init() {
     const [owner, otherAccount] = await ethers.getSigners();
     // 使用完全限定名来指定合约
-    const Counter = await ethers.getContractFactory("contracts/counter1.sol:Counter");
+    const Counter = await ethers.getContractFactory("contracts/counter_dynamic.sol:Counter");
     counter = await Counter.deploy(5);
     await counter.waitForDeployment();
     console.log("counter:" + await counter.getAddress());

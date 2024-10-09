@@ -6,7 +6,7 @@ let counter;
 describe("Counter", function () {
   async function init() {
     const [owner, otherAccount] = await ethers.getSigners();
-    const Counter = await ethers.getContractFactory("contracts/counter.sol:Counter");
+    const Counter = await ethers.getContractFactory("contracts/counter_static.sol:Counter");
     counter = await Counter.deploy();
     await counter.waitForDeployment();
     console.log("counter:" + await counter.getAddress());
