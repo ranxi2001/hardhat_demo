@@ -4,7 +4,7 @@
 
 本项目对应的 ***教程*** 可见：
 
-1. [从零开始创建一个Hardhat项目](https://github.com/ranxi2001/OnePolloWeb3/blob/master/smart%20contract/Hardhat%E5%AE%9E%E6%88%98%E7%AF%87%E2%80%94%E2%80%94%E4%BB%8E%E9%9B%B6%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E9%A1%B9%E7%9B%AE.md)
+1. [从零开始创建一个Hardhat项目](https://github.com/ranxi2001/OnePolloWeb3/blob/master/smart_contract/Hardhat%E5%AE%9E%E6%88%98%E7%AF%87%E2%80%94%E2%80%94%E4%BB%8E%E9%9B%B6%E5%88%9B%E5%BB%BA%E4%B8%80%E4%B8%AA%E9%A1%B9%E7%9B%AE.md)
 2. [用Hardhat将合约部署到测试网](https://github.com/ranxi2001/OnePolloWeb3/blob/master/smart_contract/Hardhat%E5%AE%9E%E6%88%98%E7%AF%87%E2%80%94%E2%80%94%E5%B0%86%E5%90%88%E7%BA%A6%E9%83%A8%E7%BD%B2%E5%88%B0%E6%B5%8B%E8%AF%95%E7%BD%91.md)
 
 ## 项目结构
